@@ -1,0 +1,8 @@
+insert into churchremnantsystem (myNo, korname, churcharea, korchurchposition, birthday, gender, remnantDept)VALUES
+('22070071','송금비','26교구','렘넌트','2009-06-18','F','중등부');
+insert into churchremnantsystem (myNo, korname, churcharea, korchurchposition, birthday, gender, remnantDept)VALUES
+('22070065','김용규','13교구','렘넌트','1996-09-23','M','대학부');
+insert into churchremnantsystem (myNo, korname, churcharea, korchurchposition, birthday, gender, remnantDept)VALUES
+('22070068','이유빈','32교구','렘넌트','2004-09-23','M','고등부');
+insert into churchremnantsystem (myNo, korname, churcharea, korchurchposition, birthday, gender, remnantDept)VALUES
+('22070073','장세민','32교구','렘넌트','2004-12-14','M','고등부');

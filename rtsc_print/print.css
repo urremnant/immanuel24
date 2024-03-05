@@ -1,0 +1,86 @@
+/* nanum-gothic-regular - latin_korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/nanum-gothic-v17-latin_korean-regular.eot'); /* IE9 Compat Modes */
+  src: local('NanumGothic'),
+       url('/fonts/nanum-gothic-v17-latin_korean-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-gothic-v17-latin_korean-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-regular.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-gothic-v17-latin_korean-regular.svg#NanumGothic') format('svg'); /* Legacy iOS */
+}
+
+/* nanum-gothic-700 - latin_korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/nanum-gothic-v17-latin_korean-700.eot'); /* IE9 Compat Modes */
+  src: local('NanumGothic Bold'), local('NanumGothic-Bold'),
+       url('/fonts/nanum-gothic-v17-latin_korean-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-gothic-v17-latin_korean-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-700.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-gothic-v17-latin_korean-700.svg#NanumGothic') format('svg'); /* Legacy iOS */
+}
+
+/* nanum-gothic-800 - latin_korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/fonts/nanum-gothic-v17-latin_korean-800.eot'); /* IE9 Compat Modes */
+  src: local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'),
+       url('/fonts/nanum-gothic-v17-latin_korean-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-gothic-v17-latin_korean-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-800.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-gothic-v17-latin_korean-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-gothic-v17-latin_korean-800.svg#NanumGothic') format('svg'); /* Legacy iOS */
+}
+
+/* nanum-myeongjo-regular - latin_korean */
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/nanum-myeongjo-v15-latin_korean-regular.eot'); /* IE9 Compat Modes */
+  src: local('NanumMyeongjo'),
+       url('/fonts/nanum-myeongjo-v15-latin_korean-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-regular.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-regular.svg#NanumMyeongjo') format('svg'); /* Legacy iOS */
+}
+
+/* nanum-myeongjo-800 - latin_korean */
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/fonts/nanum-myeongjo-v15-latin_korean-800.eot'); /* IE9 Compat Modes */
+  src: local('NanumMyeongjo ExtraBold'), local('NanumMyeongjoExtraBold'),
+       url('/fonts/nanum-myeongjo-v15-latin_korean-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-800.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-800.svg#NanumMyeongjo') format('svg'); /* Legacy iOS */
+}
+/* nanum-myeongjo-700 - latin_korean */
+@font-face {
+  font-family: 'Nanum Myeongjo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/nanum-myeongjo-v15-latin_korean-700.eot'); /* IE9 Compat Modes */
+  src: local('NanumMyeongjo Bold'), local('NanumMyeongjoBold'),
+       url('/fonts/nanum-myeongjo-v15-latin_korean-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-700.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/nanum-myeongjo-v15-latin_korean-700.svg#NanumMyeongjo') format('svg'); /* Legacy iOS */
+}
+body {
+	font-family:'Nanum Gothic';
+	font-size:10px;
+}
